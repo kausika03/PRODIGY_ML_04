@@ -24,16 +24,6 @@ git clone https://github.com/kausika03/PRODIGY_ML_04.git
 
 
 
-## Usage:
-
-1. Navigate to the project directory:
-
-```bash
-cd Prodigy-Task
-```
-
-2. Run the hand gesture recognition script:
-
 ```bash
 python gesture_recognition.py
 ```
