@@ -23,9 +23,3 @@ git clone https://github.com/kausika03/PRODIGY_ML_04.git
 ```
 
 
-
-```bash
-python gesture_recognition.py
-```
-
-
